@@ -1,0 +1,11 @@
+qiskit-machine-learning==0.9.1
+qiskit-aer
+qiskit-ibm-runtime
+pandas
+pyarrow
+numpy
+scikit-learn
+matplotlib
+seaborn
+pylatexenc
+jupyter
