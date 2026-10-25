@@ -1,6 +1,17 @@
 # Quantum Machine Learning untuk Cybersecurity
 ### Quantum Kernel (QSVC) vs SVM Klasik pada Deteksi Intrusi Jaringan, Dataset HQC-2026
 
+## Tim
+**Kelompok:** 
+
+| Anggota Kelompok | NRP |
+| :--- | :--- |
+| **Muhammad Rakha Hananditya Rauf** | 5027241015 |
+| **Abiyyu Raihan Putra Wikanto** | 5027241042 |
+| **Aslam Ahmad Usman** | 5027241074 |
+
+**Mata kuliah:** Quantum Computation for Cybersecurity, Institut Teknologi Sepuluh Nopember, 2026
+
 Proyek kelompok mata kuliah **Quantum Computation for Cybersecurity**, Institut Teknologi Sepuluh Nopember (ITS).
 
 Repositori ini berisi satu notebook Jupyter yang menguji secara jujur apakah *quantum kernel* membantu mendeteksi serangan jaringan pada dataset hibrida kuantum-klasik **HQC-2026**, lalu mengulang pengujian itu pada dataset kedua (**NSL-KDD**) sebagai pembanding.
@@ -191,15 +202,3 @@ Untuk menjalankan lebih cepat, kecilkan `SEEDS` dan `SIZES` (misalnya `[0, 1, 2]
 - Qiskit dan Qiskit Machine Learning, dokumentasi resmi.
 
 Gunakan hanya untuk pendidikan dan penelitian defensif. Model yang akurat pada data benchmark belum tentu siap produksi; sistem deteksi intrusi nyata memerlukan validasi pada trafik organisasi, alarm palsu, dan jalur respons insiden.
-
-## Tim
-**Kelompok:** _(isi nama kelompok)_
-
-| Nama | NRP | Peran |
-|---|---|---|
-| _(isi)_ | _(isi)_ | _(isi)_ |
-
-**Dosen pengampu:** _(isi)_  |  **Mata kuliah:** Quantum Computation for Cybersecurity, Institut Teknologi Sepuluh Nopember, 2026
-
-## Lisensi
-Kode dan notebook: _(pilih, misalnya MIT)_. Dataset HQC-2026 dilisensikan **CC BY 4.0** oleh penulis aslinya; NSL-KDD mengikuti ketentuan penyedianya.
