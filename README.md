@@ -31,7 +31,6 @@ Repositori ini berisi satu notebook Jupyter yang menguji secara jujur apakah *qu
 8. [Reproduksibilitas](#reproduksibilitas)
 9. [Keterbatasan](#keterbatasan)
 10. [Referensi dan atribusi](#referensi-dan-atribusi)
-11. [Tim](#tim)
 
 ---
 
