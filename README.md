@@ -101,7 +101,7 @@ Berkas: `QML_Cybersecurity_HQC2026_FINAL.ipynb`
 │   ├── final_hybrid_cybersecurity_dataset.parquet
 │   ├── KDDTrain+.txt                         # diunduh otomatis oleh notebook
 │   └── KDDTest+.txt
-└── results/                                  # CSV dan gambar hasil (boleh di-commit)
+└── Output/                                  # CSV dan gambar hasil (boleh di-commit)
     ├── hasil_E1_ablation.csv
     ├── hasil_E2_tuning_kurva_belajar.csv
     ├── hasil_E3_shots.csv
